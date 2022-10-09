@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <title>Contact</title>
+  </head>
+  <body>
+    <header>
+      <!--Navigation Bar-->
+      <nav class="nav-container">
+        <div class="logo">
+          <div class="logo">
+            <ul>
+              <li><i class="bi bi-bookmark-heart-fill"></i></li>
+              <li>B</li>
+              <li>o</li>
+              <li>o</li>
+              <li>k</li>
+              <li>L</li>
+              <li>o</li>
+              <li>v</li>
+              <li>e</li>
+              <li>r</li>
+              <li>s</li>
+            </ul>
+          </div>
+        </div>
+        <div class="link">
+          <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <!-- Contact Form -->
+      <section class="contact-container">
+        <div class="form-container">
+          <h2>Contact Us!</h2>
+          <p>
+            Fill out the form below to get in touch with us. We will try to get
+            back to you within 48 hours. If we do not reply within that time
+            please feel free to use the form again.
+          </p>
+          <form action="/destination">
+            <!--Name-->
+            <label for="fname">First name:</label><br />
+            <input type="text" id="fname" name="fname" required /><br /><br />
+
+            <label for="lname">Last name:</label><br />
+            <input type="text" id="lname" name="lname" required /><br /><br />
+
+            <!--Email-->
+            <label for="email">Email:</label> <br />
+            <input type="email" id="email" name="email" required /><br /><br />
+
+            <!--Phone Number-->
+            <label for="pnumber">Phone Number</label> <br />
+            <input
+              type="number"
+              id="pnumber"
+              name="pnumber"
+              placeholder="(###)-###-####"
+            />
+            <br />
+            <br />
+
+            <!--Message-->
+            <label for="comment">Message</label>
+            <br />
+            <textarea
+              name="comment"
+              id="comment"
+              placeholder="Please leave your message here..."
+            ></textarea>
+            <br />
+            <br />
+
+            <!-- Submit -->
+            <input type="submit" class="submit" value="Submit" /><br />
+          </form>
+        </div>
+      </section>
+    </main>
+    <!-- Footer  -->
+    <footer class="footer-distributed">
+      <div class="footer-right">
+        <a
+          href="https://www.facebook.com"
+          aria-label="Facebook"
+          class="fa fa-facebook"
+        ></a>
+        <a
+          href="https://twitter.com"
+          aria-label="Twitter"
+          class="fa fa-twitter"
+        ></a>
+        <a
+          href="https://www.instagram.com"
+          aria-label="Instagram"
+          class="fa fa-instagram"
+        ></a>
+        <a
+          href="https://www.snapchat.com"
+          aria-label="Snapchat"
+          class="fa fa-snapchat-ghost"
+        ></a>
+      </div>
+      <div class="footer-left">
+        <p>BookLovers &copy; 2022</p>
+      </div>
+    </footer>
+  </body>
+</html>

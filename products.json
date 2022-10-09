@@ -1,0 +1,76 @@
+{
+  "Products": [
+    {
+      "title": "The Midnight Library (Hardcover)",
+      "photo": "images/midnight-library.jpg",
+      "price": "$13.29",
+      "description": "The dazzling reader-favorite about the choices that go into a life well lived, from the acclaimed author of How To Stop Time and The Comfort Book."
+    },
+    {
+      "title": "Lessons in Chemistry",
+      "photo": "images/lessons-chemistry.jpg",
+      "price": "$18.76",
+      "description": "Laugh-out-loud funny, shrewdly observant, and studded with a dazzling cast of supporting characters, Lessons in Chemistry is as original and vibrant as its protagonist."
+    },
+    {
+      "title": "Remarkably Bright Creatures",
+      "photo": "images/bright-creatures.jpg",
+      "price": "$17.76",
+      "description": "For fans of A Man Called Ove, a charming, witty and compulsively readable exploration of friendship, reckoning, and hope that traces a widow's unlikely connection with a giant Pacific octopus."
+    },
+    {
+      "title": "I'm Glad My Mom Died (Hardcover)",
+      "photo": "images/glad-died.webp",
+      "price": "$18.64",
+      "description": "Told with refreshing candor and dark humor, I'm Glad My Mom Died is an inspiring story of resilience, independence, and the joy of shampooing your own hair."
+    },
+    {
+      "title": "Little Fires Everywhere (Hardcover)",
+      "photo": "images/little-fires.jpg",
+      "price": "$9.99",
+      "description": "Little Fires Everywhere explores the weight of secrets, the nature of art and identity, and the ferocious pull of motherhood--and the danger of believing that following the rules can avert disaster."
+    },
+    {
+      "title": "The Invisible Life of Addie Larue (Hardcover)",
+      "photo": "images/addie-larue.jpg",
+      "price": "$14.57",
+      "description": "Making a Faustian bargain to live forever but never be remembered, a woman from early eighteenth-century France endures unacknowledged centuries before meeting a man who remembers her name."
+    },
+    {
+      "title": "Untamed (Hardcover)",
+      "photo": "images/untamed.webp",
+      "price": "$14.89",
+      "description": "Untamed explores the joy and peace we discover when we stop striving to meet the expectations of the world, and start trusting the voice deep within us."
+    },
+    {
+      "title": "Where the Crawdads Sing (Paperback)",
+      "photo": "images/crawdads-sing.webp",
+      "price": "$10.76",
+      "description": "Where the Crawdads Sing is at once an exquisite ode to the natural world, a heartbreaking coming-of-age story, and a surprising tale of possible murder."
+    },
+    {
+      "title": "Daisy Jones & the Six (Paperback)",
+      "photo": "images/daisy-jones.jpg",
+      "price": "$10.16",
+      "description": "A gripping novel about the whirlwind rise of an iconic 1970s rock group and their beautiful lead singer, revealing the mystery behind their infamous break up. Everyone knows Daisy Jones & the Six, but nobody knows the reason behind their split at the absolute height of their popularity... until now."
+    },
+    {
+      "title": "The Seven Husbands of Evelyn Hugo (Paperback)",
+      "photo": "images/evelyn-hugo.jpg",
+      "price": "$9.42",
+      "description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself."
+    },
+    {
+      "title": "People We Meet on Vacation (Paperback)",
+      "photo": "images/people-vacation.jpeg",
+      "price": "$8.99",
+      "description": "For most of the year they live far apart--she's in New York City, and he's in their small hometown--but every summer, for a decade, they have taken one glorious week of vacation together. Until two years ago, when they ruined everything. They haven't spoken since."
+    },
+    {
+      "title": "Aristotle and Dante Discover the Secrets of the Universe (Paperback)",
+      "photo": "images/aristotle-dante.jpg",
+      "price": "$10.66",
+      "description": "When the two meet at the swimming pool, they seem to have nothing in common. But as the loners start spending time together, they discover that they share a special friendship--the kind that changes lives and lasts a lifetime."
+    }
+  ]
+}
