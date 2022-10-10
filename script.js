@@ -3,15 +3,15 @@ function showAlert() {
 }
 
 //Slideshow
-var slideshows = document.querySelectorAll(".slideshow");
+let slideshows = document.querySelectorAll(".slideshow");
 
 slideshows.forEach(initSlideShow);
 
 function initSlideShow() {
   var slides = document.querySelectorAll(".slide"); // Every img in a div with class slide
 
-  var i = 0,
-    time = 3000; //How long it will take to change img (3sec)
+  let i = 0;
+  let time = 3000; //How long it will take to change img (3sec)
 
   slides[i].classList.add("active"); //Adds the class active to the first/default image in order to change display from "none" to "block"
 
