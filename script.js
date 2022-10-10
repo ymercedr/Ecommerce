@@ -41,7 +41,7 @@ function getProducts(items) {
     bookContainer += ` 
     <div class = "book">
     <p class = "title">${Product.title}</p>
-    <img src = ${Product.photo}>
+    <img src = ${Product.photo} alt="Book cover image">
     <p class = "price">${Product.price}</p>
     <p>${Product.description}</p>
     <button class = "shop-button" >Buy Now!</button>
