@@ -7,7 +7,7 @@ var slideshows = document.querySelectorAll(".slideshow");
 
 slideshows.forEach(initSlideShow);
 
-function initSlideShow(slideshow) {
+function initSlideShow() {
   var slides = document.querySelectorAll(".slide"); // Every img in a div with class slide
 
   var i = 0,
@@ -22,7 +22,7 @@ function initSlideShow(slideshow) {
 
     if (i === slides.length) i = 0; //Once it goes through all of them, restart the index to show the first slide again and start from the beginning
 
-    slides[i].classList.add("active"); //Displays next image, if thsi appears before th if statement, it stays blank before restarting
+    slides[i].classList.add("active"); //Displays next image, if this appears before th if statement, it stays blank before restarting
   }, time);
 }
 
